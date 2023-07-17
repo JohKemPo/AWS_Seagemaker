@@ -1,16 +1,10 @@
 
-<!-- <style>
-    h1, h2, h3, h4{
-        font-size: 1.3em;
-        text-transform: uppercase;
-    }
-    h1{
-        font-size: 2.3em;
 
-    }
-</style> -->
+<div align="center">
+    <image src="https://github.com/JohKemPo/AWS_Seagemaker/assets/74382074/dbf289e7-0985-4f46-aef8-8e809ff9e5f9" width="220px"></image>
+    <image src="https://github.com/JohKemPo/AWS_Seagemaker/assets/74382074/b43300d9-b5ec-4f41-8b50-1959eeaff47a" width="220px"></image>
+</div>
 
-<div align="center"><image src="https://user-images.githubusercontent.com/74382074/225942034-7263a731-9833-40a7-aec1-a8b42de01948.png" width="220px"></image></div>
 
 
 
