@@ -8,23 +8,18 @@
 
 
 
-<h1 align="center" id="head"><b>DOCKER REPOSITORY<b></h1>
+<h1 align="center" id="head"><b>AWS e SageMaker<b></h1>
 
-<p align="center"><b> - STUDY ABOUT DOCKER AND ITS APPLICATIONS -</b></p>
+<p align="center"><b> - Repositório de Estudos de AWS e SageMaker -</b></p>
 <br>
 
-<p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p><br>
-<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p><br>
-<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p><br>
-<br>
-<br>
+<p align="justify">&emsp; Bem-vindo ao Repositório de Estudos de AWS e SageMaker! Este repositório foi criado para fornecer recursos e materiais de estudo relacionados à plataforma AWS (Amazon Web Services) e ao serviço SageMaker. Aqui você encontrará tutoriais, exemplos de código, documentação e outros recursos úteis para aprender e aprofundar seus conhecimentos sobre essas tecnologias.</p><br>
 <br>
 
 <h2 align="center"> S U M M A R Y </h2>
 <br>
 
-1. [Introduction](#intro)
-    1. [What's Docker](#WhatIsDocker)
+1. [Estrutura do repositório](#rep)
 1. [Libraryies](#libraries)
 1. [Tools](#Tools)
 1. [Team](#Team)    
@@ -35,7 +30,27 @@
 <hr>
 <br>
 
-<h2 id="intro"><b>INTRODUTCTION</b></h2><br>
+<h2 id="rep"><b>Estrutura do repositório</b></h2><br>
+
+```
+    - /documentacao
+        - /aws
+            - <arquivos de documentação relacionados à AWS>
+        - /sagemaker
+            - <arquivos de documentação relacionados ao SageMaker>
+
+    - /tutoriais
+        - /aws
+            - <tutoriais relacionados à AWS>
+        - /sagemaker
+            - <tutoriais relacionados ao SageMaker>
+
+    - /exemplos_de_codigo
+        - /aws
+            - <exemplos de código relacionados à AWS>
+        - /sagemaker
+            - <exemplos de código relacionados ao SageMaker>
+```
 
 <h3><b>Useful links:</b></h3><br>
 
@@ -50,12 +65,6 @@
 <p align="justify">&emsp;  <b>Engine of containers administration </b> servilo de administra;áo desses containers, processos isolados do sistema host, incluido um sistema de arquivos isolados. A ideia do container é ter um espaço controlado isolado de todo o sistema. O ponto possitivo do uso de docker é que em comparaçao com a VM o docker usa o kernel e alguns binários, ocupando e consumindo muito menos memoris.</p><br>
 
 <p align="justify">&emsp; <b>Uses lxc services (linux containers)</b> contianer usa recusso da maquina host, ou seja o container deve estar baseado no mesmo kernel do host. </p><br>
-
-![image](https://user-images.githubusercontent.com/74382074/226244014-abf71cbf-582d-41ed-bc5b-9b9cea5a3690.png)
-
-<h3><b>RUN COMMAND</b></h3><br>
-
-<p align="justify">&emsp; O comando RUN é  a concatenação de 4 comandos ( PULL, CREATE, START,EXEC ) </p><br>
 
 <h2 id="libraries"><b>LIBRARIES<b></h2><br>
 
