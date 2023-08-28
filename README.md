@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center" id="head"><b>AWS e SageMaker<b></h1>
+<h1 align="center" id="head"><b>AWS e SageMaker [ EM PRODUÇÃO ]<b></h1>
 
 <p align="center"><b> - Repositório de Estudos de AWS e SageMaker -</b></p>
 <br>
